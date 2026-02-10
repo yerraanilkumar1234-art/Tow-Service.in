@@ -11304,3 +11304,12 @@ blockquote.author-quote .twm-bq-content .twm-bq-atr-name:before {
     transform: scale(1, 1) translateY(0);
   }
 }/*# sourceMappingURL=style.css.map */
+
+
+
+/* my styles */
+
+.whatsapp{
+      font-family: 'FontAwesome';
+    font-style: normal;
+}
